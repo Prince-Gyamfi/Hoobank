@@ -21,7 +21,7 @@ HooBank is a cutting-edge web application crafted with React.js and adorned with
 
 ## Showcase
 
-Curious to see HooBank in action? Visit our [live demo](https://modern-ui-ux-woad.vercel.app/).
+Curious to see HooBank in action? Visit [live demo](https://modern-ui-ux-woad.vercel.app/).
 
 ## Stay Connected
 
